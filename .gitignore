@@ -1,0 +1,3 @@
+# Node
+node_modules/
+# Gotta show .ENV for template purposes
